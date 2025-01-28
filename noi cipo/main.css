@@ -1,0 +1,19 @@
+.menu {
+    border: 2px solid black;
+    margin-top:1px;
+}
+
+.menulink {
+    color:red;
+}
+.menulink:hover {
+    color:red;
+}
+
+.menulink:visited {
+    color:rgb(172, 1, 1)
+}
+
+.cipellok1 {
+    margin-top: 50px;
+}
